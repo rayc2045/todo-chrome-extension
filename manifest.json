@@ -5,7 +5,7 @@
   "author": "Ray C",
   "description": "Override the new tab page with to-do list",
   "chrome_url_overrides": {
-    "newtab": "todo.html"
+    "newtab": "index.html"
   },
   "permissions": [
     "storage"
