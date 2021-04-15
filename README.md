@@ -9,6 +9,8 @@ You can benefit from this extension if you:
 
 All you have to do is open a new tab, and your item is there. Write, read, cross out. It's that simple. Now start adding your first task! 🙂
 
+---
+
 Draggable Todo 是一個乾淨、快速、簡單卻功能強大的待辦事項清單。除了可以輕鬆地創建/編輯任務，甚至可以隨心所欲拖動任務來進行排序。此外，Markdown Link 的語法支持讓創建帶有網址的任務不再是問題。
 
 如果你是下列描述對象，這款擴充功能將對你大有助益：
