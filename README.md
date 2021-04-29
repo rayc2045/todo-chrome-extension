@@ -7,7 +7,7 @@ What's cool?
 - Beautiful confetti animation
 - "Zelda: Breath of the Wild" task accomplishment sound
 - Easily drag tasks
-- Markdown link support ([content](website link))
+- Markdown link support: `[content](website link)`
 - LocalStorage save
 - Super autofocus on new task input
 - Completely FREE
@@ -34,7 +34,7 @@ All you have to do is open a new tab, and your item is there. Write, read, cross
 - 漂亮的彩蛋動畫
 - 任務完成時的《薩爾達：荒野之息》音效
 - 簡單達成任務拖動
-- Markdown 連結語法支持 ([內 容](網 址 連 結))
+- Markdown 連結語法支持：`[內容](網址連結)`
 - LocalStorage 資料儲存
 - 任務新增欄的超強自動鎖定
 - 完全免費
