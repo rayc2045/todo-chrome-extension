@@ -39,7 +39,13 @@ All you have to do is open a new tab, and your item is there. Write, read, cross
 
 [![Photo](https://raw.githubusercontent.com/rayc2045/todo-chrome-extension/main/images/promo/marquee_promo_tile.png)](https://chrome.google.com/webstore/detail/draggable-to-do-list%EF%BD%9C%E5%8F%AF%E6%8B%96%E6%9B%B3%E7%9A%84/pndehpgkgbajinooeiebnjikfdfgoogi)
 
-</br>
+<br>
+<p>
+  <a href="https://www.producthunt.com/posts/draggable-todo" target="_blank">
+    <img style="width: 250px; height: 54px;" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=294817" alt="Draggable Todo on Product Hunt"/>
+  </a>
+</p>
+<br>
 
 [Draggable Todo](https://chrome.google.com/webstore/detail/draggable-to-do-list%EF%BD%9C%E5%8F%AF%E6%8B%96%E6%9B%B3%E7%9A%84/pndehpgkgbajinooeiebnjikfdfgoogi) 是一個乾淨、簡單卻快速和功能強大的 Chrome 新分頁待辦事項清單。除了可以輕鬆地創建和編輯任務、在任務中加入網址連結，隨心所欲地拖動任務來進行排序也都不是問題。
 
