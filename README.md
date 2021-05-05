@@ -1,6 +1,12 @@
 [![Photo](https://raw.githubusercontent.com/rayc2045/todo-chrome-extension/main/images/original/marquee_promo_tile.png)](https://chrome.google.com/webstore/detail/draggable-to-do-list%EF%BD%9C%E5%8F%AF%E6%8B%96%E6%9B%B3%E7%9A%84/pndehpgkgbajinooeiebnjikfdfgoogi)
 
 <br>
+<p>
+  <a href="https://www.producthunt.com/posts/draggable-todo" target="_blank">
+    <img style="width: 250px; height: 54px;" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?theme=dark&post_id=294817" alt="Draggable Todo on Product Hunt"/>
+  </a>
+</p>
+<br>
 
 [Draggable Todo](https://chrome.google.com/webstore/detail/draggable-to-do-list%EF%BD%9C%E5%8F%AF%E6%8B%96%E6%9B%B3%E7%9A%84/pndehpgkgbajinooeiebnjikfdfgoogi) is a clean, simple, but fast and powerful to-do list for Chrome browser's new tab. You can easily create or edit your task, add tasks with links, and even drag tasks to sort as you want.
 
@@ -10,7 +16,7 @@
 - Beautiful confetti animation
 - "Zelda: Breath of the Wild" task accomplishment sound
 - Easily drag tasks
-- Markdown link support: `[content](website link)`
+- Markdown link syntax support: `[content](website link)`
 - LocalStorage save
 - Super autofocus on new task input
 - Completely FREE
