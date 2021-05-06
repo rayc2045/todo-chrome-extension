@@ -1,6 +1,5 @@
 [![Photo](https://raw.githubusercontent.com/rayc2045/todo-chrome-extension/main/images/original/marquee_promo_tile.png)](https://chrome.google.com/webstore/detail/draggable-to-do-list%EF%BD%9C%E5%8F%AF%E6%8B%96%E6%9B%B3%E7%9A%84/pndehpgkgbajinooeiebnjikfdfgoogi)
 
-<br>
 <p>
   <a href="https://www.producthunt.com/posts/draggable-todo" target="_blank">
     <img style="width: 250px; height: 54px;" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?theme=dark&post_id=294817" alt="Draggable Todo on Product Hunt"/>
@@ -39,7 +38,6 @@ All you have to do is open a new tab, and your item is there. Write, read, cross
 
 [![Photo](https://raw.githubusercontent.com/rayc2045/todo-chrome-extension/main/images/promo/marquee_promo_tile.png)](https://chrome.google.com/webstore/detail/draggable-to-do-list%EF%BD%9C%E5%8F%AF%E6%8B%96%E6%9B%B3%E7%9A%84/pndehpgkgbajinooeiebnjikfdfgoogi)
 
-<br>
 <p>
   <a href="https://www.producthunt.com/posts/draggable-todo" target="_blank">
     <img style="width: 250px; height: 54px;" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=294817" alt="Draggable Todo on Product Hunt"/>
