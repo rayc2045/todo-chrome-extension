@@ -16,7 +16,7 @@
 - "Zelda: Breath of the Wild" task accomplishment sound
 - Easily drag tasks
 - Markdown link syntax support: `[content](website link)`
-- LocalStorage save
+- Runs offline and automatically saves tasks
 - Super autofocus on new task input
 - Completely FREE
 
@@ -54,7 +54,7 @@ All you have to do is open a new tab, and your item is there. Write, read, cross
 - 任務完成時的《薩爾達：荒野之息》音效
 - 簡單達成任務拖動
 - Markdown 連結語法支持：`[內容](網址連結)`
-- LocalStorage 資料儲存
+- 可離線使用和自動儲存任務
 - 任務新增欄的超強自動鎖定
 - 完全免費
 
